@@ -9,7 +9,7 @@
     padding:auto;
     padding-left: 3.3%;
     position: fixed;
-   
+    z-index: 99;
 }
 .logo_img{
     float: left;
