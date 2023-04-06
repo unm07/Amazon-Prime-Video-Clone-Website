@@ -1,5 +1,5 @@
 # Amazon-Prime-Video-Clone-Website
-_Clone website of Amazon Prime Video_
+Clone website of Amazon Prime Video
 
-Website is now 83.17% ready.
+Website is now _83.17%_ ready.
 Live link to be updated soon.
